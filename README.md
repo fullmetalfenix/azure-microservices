@@ -29,7 +29,7 @@ Here is the Functions app actually running on an azure Kubernetes pod / cluster:
 ![Live Endpoints In Function App](https://raw.githubusercontent.com/fullmetalfenix/azure-microservices/github/images/kube-terminal.JPG)
 
 Here it is accessible from the web:
-![Live Endpoints In Function App](https://raw.githubusercontent.com/fullmetalfenix/azure-microservices/github/images/kube-running.JPG)
+![Live Endpoints In Function App](https://raw.githubusercontent.com/fullmetalfenix/azure-microservices/github/images/kube-running-2.JPG)
 
 And here it is acctually accessing data returned from an endpoint:
 ![Live Endpoints In Function App](https://raw.githubusercontent.com/fullmetalfenix/azure-microservices/github/images/api-running-on-kube.JPG)
